@@ -46,6 +46,7 @@ header>p{
     max-width: 500px;
     font-size: 1.07em;
     margin: auto;
+    padding: 30px;
     color: rgb(5, 90, 62);
 }
 header>h1{
